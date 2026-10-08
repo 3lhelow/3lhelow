@@ -18,9 +18,9 @@
 
 - 👀 I’m interested in **Java Backend Developer**. 
 
-- 💞️ I’m looking to collaborate on my solution problems.
+- 💞️ I’m looking to collaborate on open-source Java projects and problem-solving.
 
-- 🔭 I graduated from **Bachelor of Management Information Systems (MIS),‏ Computer Systems Technology, dhic‏**
+- 🔭 I graduated from **Bachelor of Management Information Systems (MIS),‏ Computer Systems Technology**
 
 <br>
 
@@ -31,7 +31,7 @@
 <div align="left">
   <a href="mailto:mn.elhelow@gmail.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/mohamed-elhelow/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Amir Elkased-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+  <a href="https://www.linkedin.com/in/mohamed-elhelow/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Mohamed Elhelow-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   &nbsp;
 <br>
 
