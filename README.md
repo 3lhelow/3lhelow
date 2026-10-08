@@ -14,7 +14,7 @@
  -->
 <!-- Info -->
 
-- 👋 Hi, I’m **Amir Elkased**.
+- 👋 Hi, I’m **Mohamed Elhelow**.
 
 - ⚡ **Former Software Engineer Intern @ Fawry**
 
