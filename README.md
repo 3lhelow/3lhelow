@@ -20,7 +20,7 @@
 
 - 💞️ I’m looking to collaborate on my solution problems.
 
-- 🔭 I graduated from **Bachelor of Management Information Systems (MIS)‏، ‏Computer Systems Technology, dhic‏**
+- 🔭 I graduated from **Bachelor of Management Information Systems (MIS),‏ Computer Systems Technology, dhic‏**
 
 <br>
 
