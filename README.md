@@ -1,6 +1,6 @@
 <!-- Header -->
 <h3 align="center">
-  Welcome to Amir Elkased's profile!
+  Welcome to Mohamed Elhelow's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center"> 
@@ -16,13 +16,11 @@
 
 - 👋 Hi, I’m **Mohamed Elhelow**.
 
-- ⚡ **Former Software Engineer Intern @ Fawry**
-
 - 👀 I’m interested in **Java Backend Developer**. 
 
 - 💞️ I’m looking to collaborate on my solution problems.
 
-- 🔭 I graduated from **Faculty of Electronic Engineering, El-Menoufia University**
+- 🔭 I graduated from **Bachelor of Management Information Systems (MIS)‏، ‏Computer Systems Technology, dhic‏**
 
 <br>
 
@@ -31,41 +29,35 @@
 📫 &nbsp;Connect with Me
 ------
 <div align="left">
-  <a href="mailto:amirelkased.dev@gmail.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+  <a href="mailto:mn.elhelow@gmail.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/amirelkased" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Amir Elkased-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+  <a href="https://www.linkedin.com/in/mohamed-elhelow/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Amir Elkased-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   &nbsp;
-  <a href="https://leetcode.com/amirelkased" target="_blank" rel="noreferrer"> <img  src="https://img.shields.io/badge/Amir Elkased-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a>
 <br>
 
 <!-- Tech and tool stack -->
 ⚡️ Programming Languages
 ------
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,py,cpp&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py&perline=15)](https://skillicons.dev)
 
 ⚡️ Backend Technologies
 ------
 
-![sdsd](https://skillicons.dev/icons?i=spring,hibernate,redis,mysql,docker,rabbitmq&perline=12)
-
-⚡️ Frontend Technologies
-------
-
-![sdsd](https://skillicons.dev/icons?i=html,css,js,angular,ts&perline=12)
+![sdsd](https://skillicons.dev/icons?i=spring,redis,mysql,postgresql,docker,rabbitmq&perline=12)
 
 ⚡️ DevTools
 ------
 
-![sdsd](https://skillicons.dev/icons?i=postman,git,github,maven,linux,idea,md,npm,regex,vscode&perline=12)
+![sdsd](https://skillicons.dev/icons?i=postman,git,github,maven,linux,idea,md&perline=12)
 
 ⚡️ Statistics
 ------
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirelkased&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3lhelow&langs_count=4&show_icons=true&locale=en&layout=compact&theme=radical&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ⚡Github Readme Streak Stats
 ------
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=amirelkased&theme=github-dark)](https://git.io/streak-stats)
-[![Amir's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=amirelkased&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/amirelkased/github-readme-stats#gh-dark-mode-only)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=3lhelow&theme=github-dark)](https://git.io/streak-stats)
+[![Mohamed's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=3lhelow&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/3lhelow/github-readme-stats#gh-dark-mode-only)
